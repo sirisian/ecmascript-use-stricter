@@ -1,5 +1,9 @@
 # ES8 Proposal: "use stricter"
 
+Note: Work on this is indefinitely haulted per: https://esdiscuss.org/topic/removal-of-language-features#content-51
+
+An alternative strategy should be employed. While it complicates thing I believe rolling these features into the type proposal would be required if they're important enough to include.
+
 Current status of this proposal is -1. It's being work on alongside the optional static types proposal located here: https://github.com/sirisian/ecmascript-types
 
 ## Rationale
